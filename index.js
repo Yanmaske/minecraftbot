@@ -2,8 +2,8 @@ var mineflayer = require("mineflayer");
 var db = require("wio.db");
  
 var ayar = {
-  host: "jnok66.aternos.me", //Sunucu IPnizi "" arasına giriniz.
-  port: 25565, //Sunucu portunuzu giriniz. Genellikle 25565 olarak ayarlıdır.
+  host: "Me1265.aternos.me", //Sunucu IPnizi "" arasına giriniz.
+  port: 46110, //Sunucu portunuzu giriniz. Genellikle 25565 olarak ayarlıdır.
   username: "aktiftutma", //Sunucuya giriş yapacak bot isminizi "" arasına girin.
   version: false //Burası böyle kalsın değiştirmeyin.
 };
